@@ -1,0 +1,24 @@
+{
+  "name": "numeroclaw-plugins",
+  "description": "NumeroClaw plugins.",
+  "owner": {
+    "name": "NumeroClaw",
+    "email": "hello@numeroclaw.com"
+  },
+  "plugins": [
+    {
+      "name": "numeroclaw",
+      "description": "Order a personalized numerology reading, paid by you and delivered by email.",
+      "version": "1.0.0",
+      "author": {
+        "name": "NumeroClaw",
+        "email": "hello@numeroclaw.com",
+        "url": "https://numeroclaw.com/"
+      },
+      "homepage": "https://numeroclaw.com/assistants/",
+      "repository": "https://github.com/Apiruck-Corp/numeroclaw-plugin",
+      "license": "MIT",
+      "source": "./"
+    }
+  ]
+}
