@@ -8,8 +8,12 @@
     "email": "hello@numeroclaw.com",
     "url": "https://numeroclaw.com/"
   },
-  "homepage": "https://numeroclaw.com/assistants/",
+  "homepage": "https://numeroclaw.com/",
   "repository": "https://github.com/Apiruck-Corp/numeroclaw-plugin",
+  "documentationUrl": "https://numeroclaw.com/assistants/",
+  "supportUrl": "https://numeroclaw.com/support/",
+  "privacyPolicyUrl": "https://numeroclaw.com/privacy/",
+  "termsOfServiceUrl": "https://numeroclaw.com/terms/",
   "license": "MIT",
   "keywords": [
     "numerology",
