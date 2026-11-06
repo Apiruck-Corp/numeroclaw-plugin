@@ -6,7 +6,7 @@ NumeroClaw writes personalized English numerology readings for adults, for thems
 
 Three readings are available. The Theme is a complete portrait from a full birth name and date of birth. The Name Analysis looks at a birth name and, if it differs, the name used today. The Birthday Portrait reads the day of the month someone was born.
 
-Your assistant creates an unpaid order and gives you a link to a NumeroClaw page. It shows the order as we received it, so you can check it, then you confirm and pay on Stripe. Nothing is charged before that, and your assistant cannot pay for you. The reading arrives by email as a private link with a PDF: a Birthday Portrait within minutes, a Theme or Name Analysis usually within a few hours and always within 6 hours. If a reading is not delivered in that time or is materially wrong, the payment is refunded in full on request within 14 days.
+Your assistant creates an unpaid order and gives you a link to a NumeroClaw page. It shows the order as we received it, so you can check it, then you confirm and pay on Stripe. Nothing is charged before that, and your assistant cannot pay for you. The reading arrives by email as a private link with a PDF: usually within a few hours and always within 6 hours. If a reading is not delivered in that time or is materially wrong, the payment is refunded in full on request within 14 days.
 
 There is no account and nothing to sign in to. NumeroClaw receives only the order details your assistant sends, not the rest of your conversation. A reading is for reflection. It is not a prediction, and it is not medical, legal, financial or other professional advice.
 

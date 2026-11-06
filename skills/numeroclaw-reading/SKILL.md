@@ -11,7 +11,7 @@ NumeroClaw writes the reading. Your part is to help the person choose, get the d
 
 Call `list_products` for current prices, delivery times and what each reading needs. Then help them choose, in a sentence or two:
 
-- **Birthday Portrait:** only the date of birth is needed, and it arrives fastest. A good small gift or first reading.
+- **Birthday Portrait:** only the date of birth is needed. A good small gift or first reading.
 - **Theme:** the complete reading, from the full birth name and date of birth.
 - **Name Analysis:** for someone curious about their name, or who changed it, by marriage for example. It needs no date of birth.
 
